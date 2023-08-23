@@ -1,3 +1,3 @@
 # newProject
 
-this project was created by manish malviya
+this project was created by manish malviya.
